@@ -7,4 +7,4 @@
   - Place : Uttar Pradesh, India
 
 - BCS Student @ University of London, passionate about technologies, into Data Science, Machine Learning, diving into Android.
-- Fascinated by Historic events, mysteries; watching horror movies is one of my hobby. :) 
+- Fascinated by Historic events, mysteries; watching horror movies. :) 
