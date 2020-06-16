@@ -1,7 +1,7 @@
 # RW-Summer-Bootcamp
 ## Profile
 
-![Maaz](file:///C:/Users/Yusuf/Downloads/me.jpeg)
+![Maaz](https://github.com/maazingly/RW-Summer-Bootcamp/blob/master/me.jpeg)
   - Mohammad Maaz
   - Discord : maazingly
   - Place : Uttar Pradesh, India
